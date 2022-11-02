@@ -5,10 +5,7 @@
   
 
 - 🌱 I’m currently learning Windows kernel exploitation, code virtualization and debugging techniques  
-  
-
-- ⚡ Fun fact: [I am not fatherless](https://www.urbandictionary.com/define.php?term=femboy)  
-  
+    
 
 <br/>  
 
